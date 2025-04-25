@@ -1,0 +1,28 @@
+.# Gradle
+.gradle/
+build/
+
+# Signing
+*.keystore
+*.jks
+*.key
+
+# Android Studio
+.idea/
+*.iml
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local config
+local.properties
+
+# APKs
+*.apk
+*.ap_
+
+# Cache
+.cxx/
+.externalNativeBuild/
